@@ -14,8 +14,8 @@ public class HeightConverter {
    height = input.nextDouble() ;
    
    //computing height
-   inches = 2.54 * height ; 
-   foot = inches * 12 ;
+   inches =  height / 2.54 ; 
+   foot = inches / 12 ;
    
    //Displaying height in feet annd inches
    System.out.println(" Your Height in cm is " +height +" while in feet is " +foot +" and in inches is " +inches) ; 
