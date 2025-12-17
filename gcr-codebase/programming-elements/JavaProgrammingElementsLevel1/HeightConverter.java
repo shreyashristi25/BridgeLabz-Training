@@ -14,7 +14,11 @@ public class HeightConverter {
    height = input.nextDouble() ;
    
    //computing height
+<<<<<<< Updated upstream
    inches =  height / 2.54 ; 
+=======
+   inches = height / 2.54 ; 
+>>>>>>> Stashed changes
    foot = inches / 12 ;
    
    //Displaying height in feet annd inches
