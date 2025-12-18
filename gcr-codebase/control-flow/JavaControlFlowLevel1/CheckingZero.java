@@ -11,7 +11,7 @@ public class CheckingZero {
 	  value = input.nextDouble() ;
 	  
 	  //computing total until user enters 0
-	  if(value !=0.0)
+	  if(value == 0)
 	     while(value != 0) {
 	        total = total + value ;
 	        System.out.println("Enter a value again") ;
