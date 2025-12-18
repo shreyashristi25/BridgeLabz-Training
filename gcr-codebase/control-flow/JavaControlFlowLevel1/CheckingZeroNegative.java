@@ -12,7 +12,7 @@ public class CheckingZeroNegative {
 	  
 	  //computing total until user enters 0
 	  
-	     while(value != 0.0 || value < 0.0 ) {
+	     while(value > 0 ) {
 	     total = total + value ;
 	     System.out.println("Enter a value again") ;
 		 value = input.nextDouble() ;
