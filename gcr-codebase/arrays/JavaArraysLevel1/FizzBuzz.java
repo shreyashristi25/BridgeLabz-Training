@@ -4,9 +4,12 @@ public class FizzBuzz {
 	public static void main (String args[]) {
 		Scanner input = new Scanner(System.in) ;
         
+		//creating varibale number and getting user input 
 		System.out.println("Enter a number : ") ;
 		int number = input.nextInt() ;
 		String [] result = new String[number] ;
+		
+		//checking for positive number and divisibility and displaying output accordingly
 		if(number > 0) {
 			for(int i = 1; i <= number; i++){
 				if(i % 3 == 0 && i % 5 == 0) {
