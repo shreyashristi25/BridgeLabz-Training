@@ -4,6 +4,7 @@ public class Matrix {
 	public static void main (String args[]) {
 		Scanner input = new Scanner(System.in) ;
 		
+		//creating variables rows, columns and index
 		System.out.println("Enter the number of rows :") ;
 		int rows = input.nextInt() ;
 		System.out.println("Enter the number of columns :") ;
@@ -12,6 +13,7 @@ public class Matrix {
 		int [] array = new int[rows * columns];
 		int index = 0 ;
 		
+		//getting matrix as input from user and storing it into a 1D array
 		System.out.println("Enter the elements of matrix") ;
 		for(int i = 0; i < rows; i++) {
 			for(int j = 0; j < columns; j++){
