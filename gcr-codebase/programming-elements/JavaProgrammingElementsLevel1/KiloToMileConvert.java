@@ -8,7 +8,7 @@ public class KiloToMileConvert {
       double km ;
       double miles ;
       km = input.nextInt() ;
-      miles = km * 1.6 ;
+      miles = km / 1.6 ;
 	  
 	  //Displaying distance in kilometers and miles 
 	  System.out.println(" The total miles is " +miles +" mile for the given " +km+ " km") ;
