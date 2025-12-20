@@ -11,15 +11,19 @@ public class LargestSecondLargest {
         int [] digits = new int[maxDigit];
         int index = 0;
 
-        //Extracting digits to store in array
+        //Extracting digits to store in array and increasing the size of accordingly
         while (number > 0) {
-            int digit = number % 10; 
-            number /= 10;            
-            digits[index++] = digit;
             if (index == maxDigit) {
-                System.out.println("Reached max digit capacity (10). Remaining digits ignored.");
-                break;
+                maxDigit = maxDigit + 10;
+                int[] temp = new int[maxDigit];
+                for (int i = 0; i < digits.length; i++) {
+                    temp[i] = digits[i] ;
+                }
+                digits = temp ; 
             }
+            digits[index] = number % 10 ;
+            number = number / 10;
+            index++;
         }
 
         // checking for largest and second largest and displaying results accordingly
