@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class IllegalArgumentExceptionImplementation {
 
-   
+   //creating methods generateException, handleException to generate and handle exceptions
     public static void generateException(String text) {
         System.out.println("Substring with invalid indices: " + text.substring(5, 2));
     }
@@ -21,7 +21,8 @@ public class IllegalArgumentExceptionImplementation {
 
 	public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+	
+		//getting user input and dispalying the implementation of IllegalArgumentException
         System.out.println("Enter a string:");
         String userInput = input.next();
 
