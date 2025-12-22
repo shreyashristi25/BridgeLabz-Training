@@ -1,0 +1,40 @@
+import java.util.Scanner;
+
+public class IllegalArgumentExceptionImplementation {
+
+   
+    public static void generateException(String text) {
+        System.out.println("Substring with invalid indices: " + text.substring(5, 2));
+    }
+	
+    public static void handleException(String text) {
+        try {
+            System.out.println("Substring with invalid indices: " + text.substring(5, 2));
+        } 
+		catch (IllegalArgumentException e) {
+            System.out.println("Caught IllegalArgumentException: " + e);
+        } 
+		catch (RuntimeException e) {
+            System.out.println("Caught RuntimeException: " + e);
+        }
+    }
+
+	public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Enter a string:");
+        String userInput = input.next();
+
+        System.out.println("Calling generateException()");
+        try {
+            generateException(userInput);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Encountered Exception in generateException(): " + e);
+        }
+
+        System.out.println("Calling handleException()");
+        handleException(userInput);
+
+        input.close();
+    }
+}
