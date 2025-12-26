@@ -4,7 +4,7 @@ public class StudentsGrades {
 	
 	String name;
 	String rollNumber;
-	double[] marks;
+	double [] marks;
 	
 	
 	//Creating constructor
