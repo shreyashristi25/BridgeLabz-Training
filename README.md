@@ -44,7 +44,7 @@ BridgeLabz-Training/
  - Practiced adding, committing, and pushing Java files to GitHub.
 
  ### 🔗Code Link:
- 👉 https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites
+ 👉 [Day2-program-prerequisites](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
  ---
 
@@ -59,7 +59,7 @@ BridgeLabz-Training/
  - Committed and pushed solutions to the repository.
 
  ### 🔗Code Link:
- 👉 https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+ 👉 [Day3-programming-elements](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
  ---
 
@@ -75,7 +75,7 @@ BridgeLabz-Training/
  - Committed and pushed solutions to the repository.
 
  ### 🔗Code Link:
- 👉 https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+ 👉 [Day4-control-flow](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -90,7 +90,7 @@ BridgeLabz-Training/
  - Committed and pushed solutions to the repository.
 
  ### 🔗Code Link:
- 👉 https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+ 👉 [Day5-Java-Arrays](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -107,7 +107,7 @@ BridgeLabz-Training/
  - Committed and pushed solutions to the repository.
 
  ### 🔗Code Link:
- 👉 https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
+ 👉[Day6-Java-Methods]( https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -128,7 +128,7 @@ BridgeLabz-Training/
  - Committed and pushed solutions to the repository.
 
  ### 🔗Code Link:
- 👉 https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+ 👉 [Day7-String-And-Exception-HAndling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
 
@@ -145,8 +145,20 @@ BridgeLabz-Training/
  - Committed and pushed solutions to the repository.
 
  ### 🔗Code Link:
- 👉[Extras] https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras   
- 👉[scenario-based-problems] https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+ 👉[Extras](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras )  
+ 👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+## Day 9 - Letcode and Scenario-based-problems
+**Date:** 26-Dec-2025
+
+- Sloved 8 leetcode questions related to arraya and strings
+- solved 3 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
 
