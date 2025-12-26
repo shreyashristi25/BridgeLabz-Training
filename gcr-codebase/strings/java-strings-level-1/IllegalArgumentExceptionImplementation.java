@@ -1,5 +1,5 @@
-import java.util.Scanner;
 
+import java.util.*;
 public class IllegalArgumentExceptionImplementation {
 
    //creating methods generateException, handleException to generate and handle exceptions
