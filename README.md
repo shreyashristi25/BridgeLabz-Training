@@ -12,3 +12,16 @@
 ### 🔗Code Link:
  👉 [Day9-classes-and-object](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
   
+---
+
+## Day 10 – Java Constructors, Instance vs. Class Variables and Access Modifiers
+
+- Studied about Java Constructors
+- Studied the difference between Instance and Class Variables
+- Studied Access Modifiers concepts
+- Solved problems related to this
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day10-Java Constructors, Instance vs. Class Variables and Access Modifiers](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+  
