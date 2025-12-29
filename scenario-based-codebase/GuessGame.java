@@ -4,8 +4,11 @@ public class GuessGame {
 	public static void main (String args []) {
 		Scanner sc =  new Scanner(System.in) ;
 		
+		//creating attempt and guessed variables
 		int attempt = 1 ;
 		boolean guessed = false ;
+		
+		//guessing number using random method and displaying result accordingly
 		
 		do {
 			System.out.println("Let's guess a number between 1 and 100") ;
