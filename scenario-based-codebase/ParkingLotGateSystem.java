@@ -4,10 +4,13 @@ public class ParkingLotGateSystem {
 	public static void main (String args []) {
 		Scanner sc = new Scanner (System.in) ;
 	
+		//creating variables exit, capacity 
 		boolean exit = false;
 		int capacity = 20 ;
 		int occupied = 0 ;
 	
+		//Looping and checking for user's choice using switch statement and displaying results accordingly
+		
 		while(!exit && occupied < capacity) {
 		
 		System.out.println("---Parking Lot Menu---") ;
