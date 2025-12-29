@@ -1,3 +1,8 @@
+/*Phone Recharge Simulator 📱
+Take the user's mobile operator and amount.
+● Use a switch to display offers.
+● Loop to allow repeated recharges.
+● Show balance after each recharge.*/
 
 import java.util.* ;
 public class  PhoneRechargeSimulator {
@@ -9,6 +14,7 @@ public class  PhoneRechargeSimulator {
 		boolean continueRecharging = true;
 		double amount = 0.0;
 
+       //displaying mobile operators and their offers and getting user choice for recharge
 		while (continueRecharging) {
 
 		System.out.println("----Our Mobile Operators----") ;
@@ -117,6 +123,7 @@ public class  PhoneRechargeSimulator {
 			}
 			balance += amount;
 
+			//displaying the receipt for recharge with current and total amount with balance
             System.out.println("\n------ RECHARGE SUMMARY ------");
             System.out.println("Recharge Amount : ₹" + amount);
             System.out.println("Current Balance : ₹" + balance);
