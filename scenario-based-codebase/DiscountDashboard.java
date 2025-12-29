@@ -1,9 +1,14 @@
+/*Shopkeeper’s Discount Dashboard 🛍️
+A shopkeeper gives discounts based on total bill:
+● Input item prices in a for-loop.
+● Use if-else for discount logic.*/
 
 import java.util.* ;
 public class DiscountDashboard {
 	public static void main(String args []) {
 		Scanner sc = new Scanner(System.in) ;
 		
+		//dispalying the list of items and getting user choice
 		System.out.println("-----List of Stationary items-----") ;
 		System.out.println() ;
 		System.out.println("1. Flair Write More Kit\t\t\t₹145");
@@ -21,6 +26,7 @@ public class DiscountDashboard {
 		System.out.println("If the item's price is above 150 you will get a 10% discount") ;
 		System.out.println("If the item's price is above 100 you will get a 5% discount") ;
 		
+		//storing the prices of items in an array and computing the total bill
 		int[] prices = {145, 99, 199, 55, 120, 100, 99, 107, 70, 50};
 
 		double total = 0;
@@ -44,6 +50,8 @@ public class DiscountDashboard {
 			discount = 0.5 ;
 		}
 		double finalBill = total - discount*total ;
+		
+		//displaying computed bill with total amount, discount applied and final amount
 		System.out.println ("------BILL------") ;
 		System.out.println("Total price\t\t: ₹" + total);
 		System.out.println("Discount availed\t: " + (discount * 100) + "%");
