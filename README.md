@@ -37,5 +37,18 @@ Date -27-12-2025
 - Commited and pushed solutions to the repository
 
 ### 🔗Code Link:
- 👉 [Day11-Jthis, static, final key words and instanceof operator](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltfunctions)
+ 👉 [Day11-this, static, final key words and instanceof operator](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltfunctions)
+
+ ---
+
+ ## Day 12 – Object Modeling, Class Diagram
+ Date -30-12-2025 
+
+- Studied about Object Modeling.
+- Studied Class Diagram, Object Diagrams and Sequence Diagrams
+- Solved problems related to this
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day12-Object Modeling, Class Diagram](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
   
