@@ -173,10 +173,23 @@ BridgeLabz-Training/
 
  ---
 
- ## Day 11 - Scenario-based-problems
+ ## Day 11 - Scenario-based-problems and Leetcode problems
 **Date:** 29-Dec-2025
 
 - Sloved 2 leetcode questions related to arrays 
+- Solved 5 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+ ---
+
+ ## Day 12 - Scenario-based-problems and Leetcode problems
+**Date:** 30-Dec-2025
+
+- Sloved 5 leetcode questions related to arrays 
 - Solved 5 Scenario based questions
 - Commited and pushed solutions to the repository
 
