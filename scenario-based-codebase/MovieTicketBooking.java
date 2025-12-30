@@ -1,14 +1,22 @@
+/*Movie Ticket Booking App 🎬
+Ask users for movie type, seat type (gold/silver), and snacks.
+● Use switch and if together.
+● Loop through multiple customers.
+● Clean structure and helpful variable names.*/
 
 import java.util.* ;
 public class MovieTicketBooking {
 	public static void main(String args []) {
 		Scanner sc = new Scanner (System.in) ;
 		
+		//creating varibales to store moviePrice, snack price, total bill, booked seats and total seats
 		int price = 0 ;
 		int snackPrice = 0;
 		int totalAmount = 0;
 		int bookedSeats = 0;
 		int totalSeats = 10 ;
+		
+		//Looping till the seats are available and getting user choice
 		while(true) {
 			System.out.println("=== Movie Theatre Menu ====") ;
 			System.out.println("1. Movie Type") ;
@@ -20,6 +28,7 @@ public class MovieTicketBooking {
 		
 			switch(choice) {
 				case 1 :
+					//getting user input for movie and seat type and calculating the movie price
 					System.out.println("-----Movie Types-----") ;
 					System.out.println();
 					System.out.println("1.Action") ;
@@ -134,6 +143,7 @@ public class MovieTicketBooking {
 					break ;
 				
 				case 2:
+					//getting user input for snacks and calculating the snack price
 					System.out.println() ;
 					System.out.println ("-----List of snacks-----") ;
 					System.out.println ("1.Popcorn") ;
@@ -152,6 +162,7 @@ public class MovieTicketBooking {
 					}
 					break ;
 				case 3 :
+					//calculating the total amount and displaying the bill
 					System.out.println("Exiting......") ;
 					totalAmount = price + snackPrice ;
 					System.out.println() ;
