@@ -51,4 +51,21 @@ Date -27-12-2025
 
 ### 🔗Code Link:
  👉 [Day12-Object Modeling, Class Diagram](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
+ ---
+
+ ## Day 13 – Inheritance
+ Date -31-12-2025
+
+- Studied Inheritance (Single Level Inheritance, Multilevel Inheritance,  Hierarchical Inheritance)
+- Studied Key Features of Inheritance
+- Studied Method Overriding
+- Studied Constructor Inheritance and Polymorphism in Java
+- Solved problems related to this
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day13-Inheritance](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+
   
