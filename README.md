@@ -210,3 +210,24 @@ BridgeLabz-Training/
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
  👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+ ---
+
+ ## Day 13 – Inheritance, Scenario-based-problems and leetcode problems
+ Date -31-12-2025
+
+- Studied Inheritance (Single Level Inheritance, Multilevel Inheritance,  Hierarchical Inheritance)
+- Studied Key Features of Inheritance
+- Studied Method Overriding
+- Studied Constructor Inheritance and Polymorphism in Java
+- Solved problems related to this
+- Sloved 5 leetcode questions related to arrays and strings
+- Solved 5 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day13-Inheritance](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+
