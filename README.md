@@ -67,5 +67,20 @@ Date -27-12-2025
 ### 🔗Code Link:
  👉 [Day13-Inheritance](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
+ ---
+
+ ## Day 14 – Encapsulation
+ Date -01-01-2026
+
+- Studied Encapsulation
+- Studied Polymorphism 
+- Studied Interface
+- Studied Abstract Classes
+- Solved problems related to this
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day14-Encapsulation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
 
   
