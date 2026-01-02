@@ -210,5 +210,13 @@ BridgeLabz-Training/
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
  👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+---
 
+## Day 14 - Scenario-based-problems and Leetcode problems
+**Date:** 02-01-2026
 
+- Sloved 5 leetcode questions related to arrays 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
