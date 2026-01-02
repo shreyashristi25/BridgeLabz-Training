@@ -229,5 +229,36 @@ BridgeLabz-Training/
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
  👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+ ---
+
+ ## Day 14 – Encapsulation
+ Date -01-01-2026
+
+- Studied Encapsulation
+- Studied Polymorphism 
+- Studied Interface
+- Studied Abstract Classes
+- Solved problems related to this
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day14-Encapsulation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+ ---
+
+## Day 15 – Data Structure Introduction, LinkedList, Scenario-based problems and Leetcode
+ Date -02-01-2026
+
+- Studied Key Features of Data Structures in Java
+- Studied types of Data Structures in Java
+- Studied Single Linked List, Double Linked List, Circular  Linked List
+- Solved 5 Scenario-based-problems of Oops
+- Sloved 5 leetcode questions related to arrays 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day15- Data Structure Introduction and LinkedList](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
+ 👉 [Day15-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 
