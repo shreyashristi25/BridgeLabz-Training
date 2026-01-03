@@ -12,7 +12,7 @@ public class LongestConsecutiveMain {
 		//Taking user input 
         System.out.print("Enter number of elements: ");
         int n = sc.nextInt();
-        int[] nums = new int[n];
+        int [] nums = new int[n];
 
         System.out.println("Enter " + n + " elements:");
         for (int i = 0; i < n; i++) {
