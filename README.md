@@ -7,7 +7,23 @@
 
 - Studied Key Features of Data Structures in Java
 - Studied types of Data Structures in Java
-- Studied Single Linked List, Double Linked List, Circular  Linked List
+- Studied Single Linked List, Double Linked List, Circular Linked List
+- Solved related problems 
+- Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
  👉 [Day15- Data Structure Introduction and LinkedList](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
+
+ ---
+
+ ## Day 16 – Stack , Queue, HashMap and Hashing Function
+ Date -03-01-2026
+
+- Studied Stack
+- Studied Queue
+- Studied HashMap and Hashing Function
+- Solved related problems 
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day16- Stack , Queue, HashMap and Hashing Function](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
