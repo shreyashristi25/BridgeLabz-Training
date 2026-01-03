@@ -3,7 +3,7 @@ import java.util.* ;
 public class LongestConsecutiveSequence {
 
 	//method to find longest consecutive sequence
-	public static int longestConsecutive(int[] nums) {
+	public static int longestConsecutive(int [] nums) {
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {
             set.add(num);
