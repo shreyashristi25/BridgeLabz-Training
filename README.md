@@ -220,3 +220,14 @@ BridgeLabz-Training/
 
 ### 🔗Code Link:
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+ ---
+
+ ## Day 15 - Leetcode problems
+**Date:** 03-01-2026
+
+- Sloved 2 leetcode questions related to arrays 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
