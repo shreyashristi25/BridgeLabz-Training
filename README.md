@@ -261,4 +261,24 @@ BridgeLabz-Training/
  👉 [Day15-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
+ ---
+
+ ## Day 16 – Stack , Queue, HashMap and Hashing Function, Scenario-based problems, Leetcode problems
+ Date -03-01-2026
+
+- Studied Stack
+- Studied Queue
+- Studied HashMap and Hashing Function
+- Solved related problems
+- Solved 2 Scenario-based-problems related to java-oops
+- Sloved 2 leetcode questions related to arrays  
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day16- Stack , Queue, HashMap and Hashing Function](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉 [Day16-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+
+
 
