@@ -1,4 +1,4 @@
-package com.hashmaps;
+package com.hashmaps.subarrayswithzerosum;
 import java.util.* ;
 
 //driver class for SubarraysSumZero class
