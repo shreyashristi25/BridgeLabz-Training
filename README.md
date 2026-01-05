@@ -27,3 +27,16 @@
 
 ### 🔗Code Link:
  👉 [Day16- Stack , Queue, HashMap and Hashing Function](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
+ ---
+
+ ## Day 17 – SortingAlgorithms
+ Date -05-01-2026
+
+- Studied Bubble Sort
+- Studied Insertion Sort
+- Studied Merge Sort
+- Studied Quick Sort
+
+### 🔗Code Link:
+ 👉 [Day17- Sorting algorithms](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
