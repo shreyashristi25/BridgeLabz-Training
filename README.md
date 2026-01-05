@@ -279,6 +279,24 @@ BridgeLabz-Training/
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
  👉 [Day16-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 
+ ---
+
+ ## Day 17 – Sorting Algorithms, Scenario-based problems
+ Date -05-01-2026
+
+- Studied Bubble Sort
+- Studied Insertion Sort
+- Studied Merge Sort
+- Studied Quick Sort
+- Solved 2 scenario based problems related to oops concept.
+- Commited and pushed successfuly on the repository 
+
+### 🔗Code Link:
+ 👉 [Day17- Sorting algorithms](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+ 👉 [Day17-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+
+
 
 
 
