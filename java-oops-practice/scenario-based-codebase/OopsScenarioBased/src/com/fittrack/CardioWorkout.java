@@ -10,7 +10,7 @@ public class CardioWorkout extends Workout{
 
     @Override
     public void calculateCalories() {
-        caloriesBurned = duration * 8; // example
+        caloriesBurned = duration * 8; 
         addLog("Cardio calories calculated: " + caloriesBurned);
     }
 
