@@ -37,6 +37,23 @@
 - Studied Insertion Sort
 - Studied Merge Sort
 - Studied Quick Sort
+- Solved related problems 
+- Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
  👉 [Day17- Sorting algorithms](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+
+ ---
+
+ ## Day 18 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+ Date -06-01-2026
+
+- Studied Linear Search and Binary Search
+- Studied StringBuilder and StringBuffer
+- Studied BufferedReader
+- Studied FileReader and InputStreamReader
+- Solved related problems 
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day18- Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
