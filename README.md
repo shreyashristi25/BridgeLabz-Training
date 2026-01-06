@@ -2,7 +2,6 @@
 
 #### This repository documents my day-wise learning progress in Git, GitHub, and core Java programming. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered.
 ---
-# Week 1: Git, GitHub & Java Programming Fundamentals
 
 ## Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
@@ -227,6 +226,17 @@ BridgeLabz-Training/
 **Date:** 03-01-2026
 
 - Sloved 2 leetcode questions related to arrays 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+ ---
+
+ ## Day 16 - Leetcode problems
+**Date:** 06-01-2026
+
+- Sloved 4 leetcode questions related to arrays 
 - Commited and pushed solutions to the repository
 
 ### 🔗Code Link:
