@@ -3,7 +3,6 @@
 
 #### This repository documents my day-wise learning progress in Git, GitHub, and Java programming. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered.
 ---
-# Week 1: Git, GitHub & Java Programming Fundamentals
 
 ## Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
@@ -155,7 +154,7 @@ BridgeLabz-Training/
 
 - Studied about procedural and object oriented programming paradigms
 - Studied the concept of classes and objects
-- Sloved 8 leetcode questions related to arrays and strings
+- solved 8 leetcode questions related to arrays and strings
 - solved 3 Scenario based questions
 - Commited and pushed solutions to the repository
 
@@ -172,7 +171,7 @@ BridgeLabz-Training/
 - Studied about Java Constructors
 - Studied the difference between Instance and Class Variables
 - Studied Access Modifiers concepts
-- Sloved 13 leetcode questions related to arrays and strings 
+- solved 13 leetcode questions related to arrays and strings 
 - Commited and pushed solutions to the repository
 
 ### 🔗Code Link:
@@ -184,7 +183,7 @@ BridgeLabz-Training/
  ## Day 11 - Scenario-based-problems, this, static, final key words and instanceof operator
 **Date:** 29-Dec-2025
 - Studied about Java this, static, final key words and instanceof operators
-- Sloved 2 leetcode questions related to arrays 
+- solved 2 leetcode questions related to arrays 
 - Solved 5 Scenario based questions
 - Commited and pushed solutions to the repository
 
@@ -201,7 +200,7 @@ BridgeLabz-Training/
 - Studied about Object Modeling.
 - Studied Class Diagram, Object Diagrams and Sequence Diagrams
 - Solved problems related to this
-- Sloved 5 leetcode questions related to arrays 
+- solved 5 leetcode questions related to arrays 
 - Solved 5 Scenario based questions
 - Commited and pushed solutions to the repository
 
@@ -220,7 +219,7 @@ BridgeLabz-Training/
 - Studied Method Overriding
 - Studied Constructor Inheritance and Polymorphism in Java
 - Solved problems related to this
-- Sloved 5 leetcode questions related to arrays and strings
+- solved 5 leetcode questions related to arrays and strings
 - Solved 5 Scenario based questions
 - Commited and pushed solutions to the repository
 
@@ -253,7 +252,7 @@ BridgeLabz-Training/
 - Studied types of Data Structures in Java
 - Studied Single Linked List, Double Linked List, Circular  Linked List
 - Solved 5 Scenario-based-problems of Oops
-- Sloved 5 leetcode questions related to arrays 
+- solved 5 leetcode questions related to arrays 
 - Commited and pushed solutions to the repository
 
 ### 🔗Code Link:
@@ -271,7 +270,7 @@ BridgeLabz-Training/
 - Studied HashMap and Hashing Function
 - Solved related problems
 - Solved 2 Scenario-based-problems related to java-oops
-- Sloved 2 leetcode questions related to arrays  
+- solved 2 leetcode questions related to arrays  
 - Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
@@ -294,6 +293,27 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day17- Sorting algorithms](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
  👉 [Day17-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+ ---
+
+## Day 18 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader, Scenario-based problems and Leetcode problems
+ Date -06-01-2026
+ 
+- Studied Linear Search and Binary Search
+- Studied StringBuilder and StringBuffer
+- Studied BufferedReader
+- Studied FileReader and InputStreamReader
+- Solved related problems
+- Solved 4 Scenario based problems related to java oops
+- Solved 4 leetcode problems related to arrays
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day18- Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+ 👉 [Day18-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+
 
 
 
