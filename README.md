@@ -2,30 +2,63 @@
 ## 📘 About This Repository
 
 #### This repository documents my day-wise learning progress in Git, GitHub, and Java programming. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered.
+
+## Project Structure :
+```
+BridgeLabz-Training/
+│
+├── core-java-practice/
+│   ├── 📁gcr-codebase/
+│   │   ├── 📁arrays/
+│   │   ├── 📁control-flow/
+│   │   ├── 📁 extras/
+│   │   ├── 📁methods/
+│   │   ├── 📁programming-elements/
+│   │   ├── 📁program-prerequisites/
+│   │   └── 📁strings/
+│   ├── 📁leet-code-codebase/
+│   ├── 📁scenario-based-codebase/   
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    
+│   │               └── 📁 constructor/      
+│   │               └── 📁 encapsulation/    
+│   │               └── 📁 inheritance/    
+│   │               └── 📁 objectmodeling/      
+│   │               └── 📁 oops/inbuiltfunctions/                    
+│   └── 📁 scenario-based-codebase/           
+|
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 JavaDSAConcepts/
+│           └── 📁 src/
+│               └── 📁 com/
+│                   ├── 📁 challengeproblems
+│                   └── 📁 filereaderandinputstreamreader          
+│                   └── 📁 hashmaps/            
+│                   └── 📁 linkedlist/          
+│                   └── 📁 runtimeanalysisofalgo/
+│                   └── 📁 searching/
+│                   └── 📁 sorting/
+│                   └── 📁 stackandqueue/
+│                   └── 📁 stringbuffer/
+│                   └── 📁 stringbuilder/
+|
+└── README.md
+```
 ---
+
+# Week 1 - Git, GitHub and Java Programming Fundamentals
 
 ## Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
 
 - Installed and configured Git
 - Set up GitHub repository
-
-```
-BridgeLabz-Training/
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── control-flow/
-│   │   ├── extras/
-│   │   ├── methods/
-│   │   ├── programming-elements/
-│   │   ├── program-prerequisites/
-│   │   └── strings/
-│   ├── leet-code-codebase/
-│   ├── scenario-based/
-└── README.md
-
-```
 - Learned basic Git commands:
   - `git init`
   - `git clone`
@@ -94,7 +127,6 @@ BridgeLabz-Training/
 
 ---
 
-# Week 2: Java methods, Strings, extra problems
 ## Day 6 - Java Methods
 **Date:** 22-Dec-2025
 
@@ -110,6 +142,8 @@ BridgeLabz-Training/
  👉[Day6-Java-Methods]( https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
+
+# Week 2: Java Strings and Exception handling, extra problems, Scenario-based problems, Object Oriented concept
 
 ## Day 7 - Java String and Exception handling
 **Date:** 23-Dec-2025
@@ -210,6 +244,8 @@ BridgeLabz-Training/
  👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
  ---
+ 
+# Week 3 – Inheritance, Encapsulation, DSA Basics & Algorithms
 
  ## Day 13 – Inheritance, Scenario-based-problems and leetcode problems
  Date -31-12-2025
@@ -297,7 +333,7 @@ BridgeLabz-Training/
  ---
 
 ## Day 18 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader, Scenario-based problems and Leetcode problems
- Date -06-01-2026
+ Date - 06-01-2026
  
 - Studied Linear Search and Binary Search
 - Studied StringBuilder and StringBuffer
@@ -312,6 +348,30 @@ BridgeLabz-Training/
  👉 [Day18- Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
  👉 [Day18-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+ ---
+
+# Week 4 - Algorithm's Runtime Analysis
+
+## Day 19 – Algorithm's Runtime Analysis & Big-O Notation, Scenario-based problems
+ Date - 07-01-2026
+
+- Solved problems on Linear Search and Binary Search
+- Studied about Runtime Analysis
+- Understood Big-O Notation
+- Studied Time Complexity Analysis and Space Complexity Analysis
+- Studied Best, Worst, and Average Case Complexities
+- Solved related problems
+- Solved 3 Scenario-based-problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day19- Algorithm's Runtime Analysis & Big-O Notation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/runtimeanalysisofalgo)
+ 👉 [Day19-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+
+
+ 
 
 
 
