@@ -2,6 +2,7 @@
 
 #### This repository documents my day-wise learning progress in Git, GitHub, and Java Object Oriented concepts. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered
 
+## Week 2
 ## Day 9 – Object Oriented concept overview and classes and objects
 Date -26-12-2025
 
@@ -83,6 +84,8 @@ Date -27-12-2025
  👉 [Day14-Encapsulation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
  
  ---
+
+## Week 3
 
  ## Day 15 – Scenario-based-problems
  Date -02-01-2026
