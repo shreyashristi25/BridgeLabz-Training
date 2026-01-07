@@ -51,7 +51,6 @@ public class LoanBuddy {
         boolean approved = loan.approveLoan(applicant);
         double emi = loan.calculateEMI(applicant.getLoanAmount());
 
-        // Output
         System.out.println("=== LoanBuddy Result ===");
         System.out.println("Applicant: " + applicant.getName());
         System.out.println("Loan Type: " + loan.getLoanType());
