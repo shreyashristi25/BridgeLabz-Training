@@ -18,9 +18,7 @@ public class PositiveIntegerAndTargetIndex {
 	    		return i;
 	        }
 	    }
-
 	    return n + 1;
-
 	}
 	
 	//method to find the index of the target element
@@ -47,6 +45,7 @@ public class PositiveIntegerAndTargetIndex {
 	public static void main(String args []) {
 		Scanner sc = new Scanner (System.in) ;
 		
+		//Taking user input and displaying result
 		System.out.println("Enter the number of elements in the array : ") ;
 		int n = sc.nextInt();
 		
