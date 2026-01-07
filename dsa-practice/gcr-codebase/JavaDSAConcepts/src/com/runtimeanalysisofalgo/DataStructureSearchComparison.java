@@ -19,11 +19,10 @@ public class DataStructureSearchComparison {
         int n = sc.nextInt();
 
         // Generate dataset
-        int[] array = new int[n];
+        int [] array = new int[n];
         for (int i = 0; i < n; i++) {
             array[i] = random.nextInt(n * 10); 
         }
-
 
         // Taking target value from user
         System.out.print("Enter target value to search: ");
@@ -37,7 +36,9 @@ public class DataStructureSearchComparison {
 
         // HashSet Search
         HashSet<Integer> hashSet = new HashSet<>();
-        for (int num : array) hashSet.add(num);
+        for (int num : array) {
+        	hashSet.add(num);
+        }
 
         long startHash = System.nanoTime();
         boolean hashResult = hashSet.contains(target);
@@ -46,7 +47,9 @@ public class DataStructureSearchComparison {
 
         // TreeSet Search
         TreeSet<Integer> treeSet = new TreeSet<>();
-        for (int num : array) treeSet.add(num);
+        for (int num : array) {
+        	treeSet.add(num);
+        }
 
         long startTree = System.nanoTime();
         boolean treeResult = treeSet.contains(target);
