@@ -91,7 +91,6 @@ public class SortingLargeData {
         return i + 1;
     }
 
-
     // creating a benchmark to compare all other sorting algorithms
     public static void benchmarkSort(String name, int[] arr, Runnable sortMethod) {
         int [] copy = Arrays.copyOf(arr, arr.length);
