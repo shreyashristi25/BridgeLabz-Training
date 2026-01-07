@@ -3,6 +3,8 @@
 #### This repository documents my day-wise learning progress in Git, GitHub, and core Java programming. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered.
 ---
 
+# Week 1 - Git, GitHub and Java Programming Fundamentals
+
 ## Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
 
@@ -93,7 +95,6 @@ BridgeLabz-Training/
 
 ---
 
-# Week 2: Java methods, Strings, extra problems
 ## Day 6 - Java Methods
 **Date:** 22-Dec-2025
 
@@ -109,6 +110,8 @@ BridgeLabz-Training/
  👉[Day6-Java-Methods]( https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
+
+# Week 2: Java Strings and Exception handling, extra problems, Scenario-based problems
 
 ## Day 7 - Java String and Exception handling
 **Date:** 23-Dec-2025
@@ -197,6 +200,8 @@ BridgeLabz-Training/
  👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
  ---
+
+ # Week 3 - Scenario-based-problems and Leetcode problems
 
 ## Day 13 - Scenario-based-problems and Leetcode problems
 **Date:** 31-Dec-2025
