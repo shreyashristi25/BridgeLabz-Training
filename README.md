@@ -2,6 +2,8 @@
 
 #### This repository documents my day-wise learning progress in Git, GitHub, and Data Structure concepts in Java. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered.
 
+# Week 3 - Data Structures and and Algorithms in Java
+
 ## Day 15 – Data Structure Introduction and LinkedList
  Date -02-01-2026
 
@@ -57,3 +59,19 @@
 
 ### 🔗Code Link:
  👉 [Day18- Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
+
+ ---
+
+ ## Day 19 – Algorithm's Runtime Analysis & Big-O Notation
+ Date - 07-01-2026
+
+- Solved problems on Linear Search and Binary Search
+- Studied about Runtime Analysis
+- Understood Big-O Notation
+- Studied Time Complexity Analysis and Space Complexity Analysis
+- Studied Best, Worst, and Average Case Complexities
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day19- Algorithm's Runtime Analysis & Big-O Notation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/runtimeanalysisofalgo)
