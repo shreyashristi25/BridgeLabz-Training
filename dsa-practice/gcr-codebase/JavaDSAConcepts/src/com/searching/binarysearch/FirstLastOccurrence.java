@@ -3,6 +3,7 @@ import java.util.* ;
 
 public class FirstLastOccurrence {
 
+	//method to find first occurrence of the target
 	public static int findFirst(int [] array, int target) {
 		int left = 0, right = array.length ;
 		int result = -1 ;
@@ -22,6 +23,7 @@ public class FirstLastOccurrence {
 		}
 		return result ;
 	}
+	//method to find last occurrence of the target
 	public static int findLast(int [] array, int target) {
 		int left = 0, right = array.length ;
 		int result = -1 ;
@@ -45,6 +47,7 @@ public class FirstLastOccurrence {
 	public static void main (String args []) {
 		Scanner sc = new Scanner(System.in) ;
 		
+		//Taking user input and displaying result
 		System.out.println("Enter the size of the array : ") ;
 		int n = sc.nextInt();
 		
