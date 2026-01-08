@@ -126,6 +126,7 @@ BridgeLabz-Training/
  👉 [Day5-Java-Arrays](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
+# Week 2: Java Methods, Java Strings and Exception handling, extra problems, Scenario-based problems, Object Oriented concept
 
 ## Day 6 - Java Methods
 **Date:** 22-Dec-2025
@@ -142,8 +143,6 @@ BridgeLabz-Training/
  👉[Day6-Java-Methods]( https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
-
-# Week 2: Java Strings and Exception handling, extra problems, Scenario-based problems, Object Oriented concept
 
 ## Day 7 - Java String and Exception handling
 **Date:** 23-Dec-2025
@@ -183,6 +182,7 @@ BridgeLabz-Training/
  👉[scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
 ## Day 9 - Letcode, Scenario-based-problems, Object Oriented concept overview and classes and objects
 **Date:** 26-Dec-2025
 
@@ -214,7 +214,9 @@ BridgeLabz-Training/
 
  ---
 
- ## Day 11 - Scenario-based-problems, this, static, final key words and instanceof operator
+# Week 3 – Object Oriented concept, Inheritance, Encapsulation, DSA Basics & Algorithms
+
+## Day 11 - Scenario-based-problems, this, static, final key words and instanceof operator
 **Date:** 29-Dec-2025
 - Studied about Java this, static, final key words and instanceof operators
 - solved 2 leetcode questions related to arrays 
@@ -245,7 +247,7 @@ BridgeLabz-Training/
 
  ---
  
-# Week 3 – Inheritance, Encapsulation, DSA Basics & Algorithms
+
 
  ## Day 13 – Inheritance, Scenario-based-problems and leetcode problems
  Date -31-12-2025
@@ -316,7 +318,9 @@ BridgeLabz-Training/
 
  ---
 
- ## Day 17 – Sorting Algorithms, Scenario-based problems
+ # Week 4 - Sorting Algorithms, Scenario-based problems,  Algorithm's Runtime Analysis
+
+ ## Day 17 – DSA concepts, Sorting and Searching Algorithms, Scenario-based problems
  Date -05-01-2026
 
 - Studied Bubble Sort
@@ -350,8 +354,6 @@ BridgeLabz-Training/
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
  ---
-
-# Week 4 - Algorithm's Runtime Analysis
 
 ## Day 19 – Algorithm's Runtime Analysis & Big-O Notation, Scenario-based problems
  Date - 07-01-2026
