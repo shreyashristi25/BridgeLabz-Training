@@ -376,7 +376,7 @@ BridgeLabz-Training/
  ## Day 20 –  Scenario-based problems
  Date - 08-01-2026
  
-- Solved 2 Scenario-based-problems realted to java-oops-practice
+- Solved 2 Scenario-based-problems related to java-oops-practice
 - Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
