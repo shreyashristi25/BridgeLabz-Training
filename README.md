@@ -32,6 +32,7 @@
 
  ---
 
+
  ## Day 17 – SortingAlgorithms
  Date -05-01-2026
 
@@ -75,3 +76,14 @@
 
 ### 🔗Code Link:
  👉 [Day19- Algorithm's Runtime Analysis & Big-O Notation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/runtimeanalysisofalgo)
+
+ ---
+
+ ## Day 20 – Scenario based problems
+ Date - 10-01-2026
+
+- Solved 2 scenario based problems on dsa
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day20- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
