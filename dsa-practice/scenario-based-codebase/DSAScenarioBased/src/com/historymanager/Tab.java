@@ -24,18 +24,18 @@ public class Tab {
 	public void back() {
 	    if (current.prev != null) {
 	        current = current.prev;
-	        System.out.println("⬅ Back to: " + current.url);
+	        System.out.println(" Back to: " + current.url);
 	    } else {
-	        System.out.println("⚠ Already at the first page in history!");
+	        System.out.println(" Already at the first page in history!");
 	    }
 	}
 
 	public void forward() {
 	    if (current.next != null) {
 	        current = current.next;
-	        System.out.println("➡ Forward to: " + current.url);
+	        System.out.println(" Forward to: " + current.url);
 	    } else {
-	        System.out.println("⚠ Already at the latest page in history!");
+	        System.out.println(" Already at the latest page in history!");
 	    }
 	}
 
@@ -44,7 +44,7 @@ public class Tab {
 	    History node = current;
 	    while (node.prev != null) node = node.prev; 
 
-	    System.out.print("📜 History: ");
+	    System.out.print(" History: ");
 	    while (node != null) {
 	        if (node == current) {
 	            System.out.print("[" + node.url + "] "); 
