@@ -18,7 +18,7 @@ public class Browser {
             openTabs.remove(index);
             System.out.println("Closed tab at index " + index);
         } else {
-            System.out.println("⚠ Invalid tab index!");
+            System.out.println(" Invalid tab index!");
         }
     }
 
@@ -27,14 +27,14 @@ public class Browser {
         if (!closedTabs.isEmpty()) {
             Tab restored = closedTabs.pop();
             openTabs.add(restored);
-            System.out.println("♻ Restored a closed tab.");
+            System.out.println(" Restored a closed tab.");
         } else {
-            System.out.println("⚠ No closed tabs to restore!");
+            System.out.println(" No closed tabs to restore!");
         }
     }
 
     public void showTabs() {
-        System.out.println("📑 Open Tabs:");
+        System.out.println(" Open Tabs:");
         for (int i = 0; i < openTabs.size(); i++) {
             System.out.println(i + ": " + openTabs.get(i).getCurrentPage());
         }
