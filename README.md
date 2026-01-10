@@ -394,6 +394,20 @@ BridgeLabz-Training/
  👉 [Day21-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
  👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
+ ---
+
+ ## Day 22 –  Scenario-based problems, Leetcode problems
+ Date - 10-01-2026
+ 
+- Solved 3 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day22-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+
+ 
+
 
 
 
