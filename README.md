@@ -380,7 +380,20 @@ BridgeLabz-Training/
 - Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
- 👉 [Day19-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+ 👉 [Day20-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+---
+## Day 21 –  Scenario-based problems, Leetcode problems
+ Date - 09-01-2026
+ 
+- Solved 3 Scenario-based-problems related to java-oops-practice
+- Solved 2 leetcode problems related to arrays
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day21-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+ 👉 [Leetcode](https://github.com/shreyashristi25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
 
 
 
