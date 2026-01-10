@@ -4,6 +4,7 @@ public class LibraryOrganizer {
 
 	private Map< String , LinkedList<Book>> catalog = new HashMap<> () ;
 	
+	//methods to add book, borrow book, return book and display catalog
 	public void addBook(String genre, Book book) {
 		catalog.putIfAbsent(genre,  new LinkedList<>()) ;
 		catalog.get(genre).add(book) ;
@@ -20,8 +21,7 @@ public class LibraryOrganizer {
 					return ;
 				}
 			}
-		}
-		
+		}	
 		System.out.println("Book not found in this genre! You can try different genre.") ;
 	}
 	
