@@ -1,11 +1,14 @@
 package com.libraryorganizer;
 import java.util.* ;
+
+//driver class for other classes in bookshelf application
 public class BookShelf {
 
 	public static void main(String args[]) {
 		Scanner sc = new Scanner (System.in) ;
 		LibraryOrganizer library = new LibraryOrganizer();
 		
+		//taking user choice , performing operations and displaying result accordingly
 		while(true) {
 		System.out.println("======BookShelf======") ;
 		System.out.println("1. Add Book") ;
