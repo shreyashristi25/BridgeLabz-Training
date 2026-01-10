@@ -56,7 +56,7 @@ public class BrowserBuddy {
                         System.out.print("Enter URL to visit: ");
                         String newUrl = sc.nextLine();
                         tab.visit(newUrl);
-                        System.out.println("➡ Current page: " + tab.getCurrentPage());
+                        System.out.println(" Current page: " + tab.getCurrentPage());
                     }
                     break;
 
@@ -68,7 +68,7 @@ public class BrowserBuddy {
                     Tab backTab = browser.getTab(backIndex);
                     if (backTab != null) {
                         backTab.back();
-                        System.out.println("⬅ Current page: " + backTab.getCurrentPage());
+                        System.out.println(" Current page: " + backTab.getCurrentPage());
                     }
                     break;
 
@@ -80,17 +80,17 @@ public class BrowserBuddy {
                     Tab forwardTab = browser.getTab(forwardIndex);
                     if (forwardTab != null) {
                         forwardTab.forward();
-                        System.out.println("➡ Current page: " + forwardTab.getCurrentPage());
+                        System.out.println(" Current page: " + forwardTab.getCurrentPage());
                     }
                     break;
 
                 case 8:
                     running = false;
-                    System.out.println("👋 Exiting BrowserBuddy...");
+                    System.out.println(" Exiting BrowserBuddy...");
                     break;
 
                 default:
-                    System.out.println("⚠ Invalid choice!");
+                    System.out.println(" Invalid choice!");
             }
         }
         sc.close();
