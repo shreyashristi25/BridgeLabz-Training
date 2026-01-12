@@ -2,7 +2,6 @@
 
 #### This repository documents my day-wise learning progress in Git, GitHub, and Java Object Oriented concepts. It includes structured practice programs, concept-wise code organization, and daily summaries of topics covered
 
-## Week 2
 ## Day 9 – Object Oriented concept overview and classes and objects
 Date -26-12-2025
 
@@ -85,8 +84,6 @@ Date -27-12-2025
  
  ---
 
-## Week 3
-
  ## Day 15 – Scenario-based-problems
  Date -02-01-2026
 
@@ -160,6 +157,18 @@ Date -27-12-2025
 
 ### 🔗Code Link:
  👉 [Day21-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+ ---
+
+ ## Day 22 – Scenario-based-problems
+ Date -12-01-2026
+
+- Solved 2 Scenario-based-problems 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day22-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
 
 
 
