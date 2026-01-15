@@ -32,6 +32,7 @@
 
  ---
 
+## Week 4
 
  ## Day 17 – SortingAlgorithms
  Date -05-01-2026
@@ -90,6 +91,7 @@
 
  ---
 
+ ## Week 5
  
  ## Day 21 – Scenario based problems
  Date - 12-01-2026
@@ -99,3 +101,25 @@
 
 ### 🔗Code Link:
  👉 [Day21- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+ ---
+
+ ## Day 22 – Scenario based problems
+ Date - 13-01-2026
+
+- Solved 2 scenario based problems on dsa
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day22- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+ ---
+
+ ## Day 23 – Scenario based problems
+ Date - 15-01-2026
+
+- Solved 5 scenario based problems on dsa
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day23- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
