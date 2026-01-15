@@ -169,6 +169,18 @@ Date -27-12-2025
 ### 🔗Code Link:
  👉 [Day22-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 
+ ---
+
+ ## Day 23 – Scenario-based-problems
+ Date -13-01-2026
+
+- Solved 2 Scenario-based-problems 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Day23-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+
 
 
 
