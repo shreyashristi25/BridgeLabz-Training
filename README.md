@@ -123,3 +123,14 @@
 
 ### 🔗Code Link:
  👉 [Day23- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+ ---
+
+ ## Day 24 – Scenario based problems
+ Date - 16-01-2026
+
+- Solved 3 scenario based problems on dsa
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day24- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
