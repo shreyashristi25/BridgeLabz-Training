@@ -455,6 +455,23 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day26-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
 
+ ---
+
+ ## Day 27 –  Scenario-based problems
+ Date - 17-01-2026
+ 
+- Solved 4 Scenario-based-problems related to data structures
+- Solved 2 Scenario-based-problems related to java oops
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day27-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+ 👉 [Day27-Scenario-based-problems(OOPs)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+
+
+
+
 
 
 
