@@ -467,6 +467,21 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day27-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
  👉 [Day27-Scenario-based-problems(OOPs)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+ 
+ ---
+
+ ## Day 28 –  Scenario-based problems
+ Date - 18-01-2026
+ 
+- Studied introduction to Generics
+- Studied Type Parameters
+- Studied Generic Classes and Generic Methods
+- Studied Bounded Type Parameters and Wildcards
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day28-Java Generics](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
 
 
 
