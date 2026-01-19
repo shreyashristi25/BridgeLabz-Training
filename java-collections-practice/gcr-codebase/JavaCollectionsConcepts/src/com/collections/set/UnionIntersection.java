@@ -9,6 +9,7 @@ public class UnionIntersection {
 		Set<Integer> set1 = new HashSet<>() ;
 		Set<Integer> set2 = new HashSet<>() ;
 		
+		//taking user input for number of elements in two sets and their elements
 		System.out.println("Enter number of elements in set1 :") ;
 		int n1 =sc.nextInt() ;
 		sc.nextLine() ;
@@ -27,6 +28,7 @@ public class UnionIntersection {
 			set2.add(sc.nextInt()) ;
 		}
 		
+		//finding insertion and union and displaying result
 
 		Set<Integer> union = new HashSet<>(set1) ;
 		union.addAll(set2) ;
