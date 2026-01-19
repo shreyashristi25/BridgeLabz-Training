@@ -34,20 +34,30 @@ BridgeLabz-Training/
 |
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
-│      └── 📁 JavaDSAConcepts/
+│   |    └── 📁 JavaDSAConcepts/
+│   |     └── 📁 src/
+│   |           └── 📁 com/
+│   |               ├── 📁 challengeproblems
+│   |               └── 📁 filereaderandinputstreamreader          
+│   |               └── 📁 hashmaps/            
+│   |               └── 📁 linkedlist/          
+│   |               └── 📁 runtimeanalysisofalgo/
+│   |               └── 📁 searching/
+│   |               └── 📁 sorting/
+│   |               └── 📁 stackandqueue/
+│   |               └── 📁 stringbuffer/
+│   |               └── 📁 stringbuilder/
+|   └── 📁 scenario-based-codebase/
+|
+└── 📁 java-collections-practice/
+│   └── 📁 gcr-codebase/
+│      └── 📁 JavaCollectionsConcepts/
 │           └── 📁 src/
 │               └── 📁 com/
-│                   ├── 📁 challengeproblems
-│                   └── 📁 filereaderandinputstreamreader          
+│                   ├── 📁 generics
+│                   └── 📁 collections          
 │                   └── 📁 hashmaps/            
-│                   └── 📁 linkedlist/          
-│                   └── 📁 runtimeanalysisofalgo/
-│                   └── 📁 searching/
-│                   └── 📁 sorting/
-│                   └── 📁 stackandqueue/
-│                   └── 📁 stringbuffer/
-│                   └── 📁 stringbuilder/
-|
+│                   └── 📁 linkedlist/   
 └── README.md
 ```
 ---
