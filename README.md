@@ -470,7 +470,7 @@ BridgeLabz-Training/
  
  ---
 
- ## Day 28 –  Scenario-based problems
+ ## Day 28 –  Java Generics
  Date - 18-01-2026
  
 - Studied introduction to Generics
@@ -482,6 +482,23 @@ BridgeLabz-Training/
 
 ### 🔗Code Link:
  👉 [Day28-Java Generics](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
+
+ ---
+
+ ## Day 29 –  Java Collections
+ Date - 19-01-2026
+ 
+- Studied introduction to Collection Framework
+- Studied List Interface and Implementing Classes
+- Studied Set Interface and Implementing Classes
+- Studied Queue and Deque
+- Solved related problems
+- Solved 3 scenario based problems related to DSA
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day29-Java Collections](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
+ 👉 [Day29-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
 
 
 
