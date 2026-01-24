@@ -35,7 +35,7 @@ public class EmployeeSerialization {
         // Save (Serialize)
         try (ObjectOutputStream oout = new ObjectOutputStream(new FileOutputStream("employees.ser"))) {
             oout.writeObject(employees);
-            System.out.println("\nData saved successfully!");
+            System.out.println("Data saved successfully!");
         }
         catch (IOException e) {
             System.out.println("Error: " + e);
@@ -44,7 +44,7 @@ public class EmployeeSerialization {
         // Retrieve (Deserialize)
         try (ObjectInputStream oin = new ObjectInputStream(new FileInputStream("employees.ser"))) {
             List<Employee> list = (List<Employee>) oin.readObject();
-            System.out.println("\nRetrieved Employees:");
+            System.out.println("Retrieved Employees:");
             for (Employee e : list) {
                 System.out.println(e);
             }
@@ -54,7 +54,6 @@ public class EmployeeSerialization {
         }
 
         sc.close();
-
 
 	}
 
