@@ -495,7 +495,7 @@ BridgeLabz-Training/
 
  ---
 
- ## Day 29 –  Java Collections
+ ## Day 29 –  Java Collections and Scenario based problems
  Date - 19-01-2026
  
 - Studied introduction to Collection Framework
@@ -509,6 +509,28 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day29-Java Collections](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
  👉 [Day29-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+ ---
+
+  ## Day 30 –  Java Streams and Scenario based problems
+ Date - 20-01-2026
+ 
+- Studied introduction to Java I/O Streams
+- Studied Types of Streams
+    - File Streams
+    - Object Streams
+    - ByteArray Streams
+    - Buffered Streams
+    - Reader and Writer
+- Solved related problems
+- Solved 3 scenario based problems related to DSA
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day3-Java Streams](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
+ 👉 [Day30-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+
 
 
 
