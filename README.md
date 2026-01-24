@@ -158,3 +158,37 @@
 
 ### 🔗Code Link:
  👉 [Day26- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+ ---
+
+ ## Day 27 – Scenario based problems
+ Date - 20-01-2026
+
+- Solved 3 scenario based problems on dsa
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day27- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+ ---
+
+ ## Day 28 – Scenario based problems
+ Date - 21-01-2026
+
+- Solved 2 scenario based problems on sorting algorithms
+- Solved 3 scenario based problems on Binary Search Tree
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day28- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
+
+  ---
+
+ ## Day 29 – Scenario based problems
+ Date - 22-01-2026
+
+- Solved 3 scenario based problems on dsa
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day29- Scenario based problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
