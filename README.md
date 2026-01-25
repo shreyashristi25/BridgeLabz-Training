@@ -530,6 +530,23 @@ BridgeLabz-Training/
  👉 [Day3-Java Streams](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
  👉 [Day30-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
 
+ ---
+
+ ## Day 31 –  Java Collections
+ Date - 21-01-2026
+ 
+
+- Studied Exceptions
+- Studied Types of Exceptions
+    - Checked Exceptions
+    - Unchecked Exceptions
+- Studied Exception Handling using try-catch and finally blocks
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day4-Exception Handling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptionhandling)
+
 
 
 
