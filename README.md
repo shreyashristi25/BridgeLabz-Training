@@ -417,7 +417,7 @@ BridgeLabz-Training/
 
  ---
 
-## Week 5 - Scenario based problems on OOPs and DSA
+## Week 5 - Scenario based problems on OOPs , DSA and Java Generics
 
  ## Day 23 –  Scenario-based problems
  Date - 12-01-2026
@@ -494,7 +494,7 @@ BridgeLabz-Training/
  👉 [Day28-Java Generics](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
 
  ---
-
+## Week 6 - Java Collections, Java Strema, Regex, Junit, Reflection and Annotations
  ## Day 29 –  Java Collections and Scenario based problems
  Date - 19-01-2026
  
@@ -532,10 +532,9 @@ BridgeLabz-Training/
 
  ---
 
- ## Day 31 –  Java Collections
+ ## Day 31 –  Java Exception Handling
  Date - 21-01-2026
  
-
 - Studied Exceptions
 - Studied Types of Exceptions
     - Checked Exceptions
@@ -545,9 +544,93 @@ BridgeLabz-Training/
 - Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
- 👉 [Day4-Exception Handling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptionhandling)
+ 👉 [Day31-Exception Handling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptionhandling)
 
+ ---
 
+ ## Day 32 –  Java Regex
+ Date - 22-01-2026
+ 
+- Studied : 
+- Common Patterns:
+   - Email Validation
+   - Password Strength
+   - Phone Number Format 
+- Java Regex API 
+   - Pattern
+   - Matcher
+- Methods:
+   - find()
+   - matches()
+   - replaceAll()
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day32-Regex](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)
+
+ ---
+   ## Day 33 – Junit
+ Date - 23-01-2026
+ 
+
+- Studied Introduction to JUnit Framework
+- Studied JUnit Annotations
+- Studied Writing Test Cases
+- Structure of a Test Class
+- Assertions
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day33-Junit](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)
+
+ ---
+
+   ## Day 34 – Reflection
+ Date - 24-01-2026
+ 
+- Studied Introduction to Reflection
+- Using Reflection in Java
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day34-Reflection](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
+ 
+---
+ ## Day 35 – Annotations
+ Date - 26-01-2026
+ 
+- Studied Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day35-Annotation](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)
+
+ ---
+
+ ## Day 36 – Scenario-based-problems
+ Date - 27-01-2026
+ 
+- Solved 5 scenario-based problems related to collections
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day36-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com)
+
+ ---
+ ## Day 37 – Scenario-based-problems
+ Date - 28-01-2026
+ 
+- Solved 5 scenario-based problems related to java collections
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day37-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com)
 
 
 
