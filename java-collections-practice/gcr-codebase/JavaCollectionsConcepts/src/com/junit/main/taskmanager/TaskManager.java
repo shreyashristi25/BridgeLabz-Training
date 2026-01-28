@@ -5,7 +5,7 @@ public class TaskManager {
 	//method to run a task 
 	public String longRunningTask() {
 		try {
-			Thread.sleep(3000);
+			Thread.sleep(2000);
 		}
 		catch(InterruptedException e) {
 			Thread.currentThread().interrupt() ;
