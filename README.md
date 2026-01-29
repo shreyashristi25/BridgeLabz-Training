@@ -632,6 +632,22 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day37-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com)
 
+ ---
+
+ ## Day 38 – CSV Data Handling
+ Date - 28-01-2026
+ 
+- Studied Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day38-CSV Data Handling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/gcr-codebase/JavaIoStreamConcepts/src/com/csv)
+
 
 
 
