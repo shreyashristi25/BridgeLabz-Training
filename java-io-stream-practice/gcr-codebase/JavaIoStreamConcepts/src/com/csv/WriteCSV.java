@@ -12,11 +12,11 @@ public class WriteCSV {
             writer.append("ID,Name,Department,Salary\n");
 
             
-            writer.append("1,Anita,HR,50000");
-            writer.append("2,Rahul,IT,60000");
-            writer.append("3,Meena,Finance,55000");
-            writer.append("4,Arjun,Marketing,52000");
-            writer.append("5,Sneha,Operations,58000");
+            writer.append("1,Anita,HR,50000\n");
+            writer.append("2,Rahul,IT,60000\n");
+            writer.append("3,Meena,Finance,55000\n");
+            writer.append("4,Arjun,Marketing,52000\n");
+            writer.append("5,Sneha,Operations,58000\n");
 
             System.out.println("CSV file created successfully: " + filePath);
         }
