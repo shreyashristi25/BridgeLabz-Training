@@ -1,4 +1,4 @@
-package com.methodreferences;
+package com.methodreferences.patientidprinting ;
 import java.util.* ;
 
 public class Hospital {
