@@ -1,4 +1,4 @@
-package com.methodreferences;
+package com.methodreferences.patientidprinting ;
 
 public class Patient {
 
