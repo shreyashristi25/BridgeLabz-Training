@@ -527,7 +527,7 @@ BridgeLabz-Training/
 - Commited and pushed successfuly on the repository
 
 ### 🔗Code Link:
- 👉 [Day3-Java Streams](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
+ 👉 [Day30-Java Streams](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
  👉 [Day30-Scenario-based-problems(DSA)](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioBased/src/com)
 
  ---
@@ -647,6 +647,86 @@ BridgeLabz-Training/
 
 ### 🔗Code Link:
  👉 [Day38-CSV Data Handling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/gcr-codebase/JavaIoStreamConcepts/src/com/csv)
+
+ ---
+
+ ## Day 39 – JSON Data Handling
+ Date - 29-01-2026
+ 
+- Studied Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day39-JSON Data Handling](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/gcr-codebase/JavaIoStreamConcepts/src/com/json)
+
+ ---
+
+  ## Day 40 – Lambda Expressions and Method References
+ Date - 30-01-2026
+ 
+- Studied Introduction Lambda Expressions
+- Method References
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day40-Lambda Expressions](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpressions)
+ 👉 [Day40-Method References](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+
+ ---
+
+ ## Day 41 – Functional Interfaces
+ Date - 01-02-2026
+ 
+- Studied Defining and Implementing Interfaces 
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day41-Functional Interfaces](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)
+
+ ---
+
+ ## Day 42 – Stream API 
+ Date - 02-02-2026
+ 
+- Studied ntermediate operations:
+      - filter
+      - map, flatMap, distinct
+      - sorted, peek, limit, skip. 
+- Terminal operations:
+      - collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+- Collectors - Roles and Capabilities
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day42-Stream API](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapi)
+ 👉 [Day42-Collectors](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+
+ ---
+ ## Day 44 – Collectors
+ Date - 04-02-2026
+ 
+- Collectors - Roles and Capabilities
+- Solved related problems
+- Solved Scenario based problems based on Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day44-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src)
 
 
 
