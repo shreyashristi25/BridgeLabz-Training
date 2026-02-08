@@ -728,6 +728,50 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day44-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src)
 
+ ---
+
+ ## Day 45 – Design Principles 
+ Date - 05-01-2026
+ 
+- Studied SOLID Principles
+- Studied Don't Repeat Yourself (DRY)
+- Keep It Simple, Stupid (KISS)
+- You Aren't Gonna Need It (YAGNI)
+
+ ---
+
+ ## Day 46 –Design Patterns
+ Date - 06-01-2026
+ 
+- Studied Introduction to GoF Design Pattern
+- Categories of Patterns (GoF classification)
+- Singleton Pattern
+- Factory Pattern
+- Observer Pattern
+- Builder Pattern
+- UML Designing
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day46-Design Principles and Design Patterns](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternMultithreadingconcepts/src/com/designpattern/librarymanagementsystem)
+
+ ---
+
+  ## Day 47 –Multithreading
+ Date - 07-01-2026
+ 
+- Studied Introduction to Java Multithreading
+- Process vs Thread
+- Thread Lifecycle
+- Thread Creation Methods
+- Thread Management & Control
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day47-Multithreading](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternMultithreadingconcepts/src/com/multithreading)
+
 
 
 
