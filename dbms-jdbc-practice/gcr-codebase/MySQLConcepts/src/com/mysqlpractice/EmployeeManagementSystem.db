@@ -1,0 +1,80 @@
+--Create Database
+CREATE DATABASE employeedb;
+
+-- Use Database
+USE employeedb ;
+
+--Create Table
+
+	CREATE TABLE employee (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+ 	    name VARCHAR(50),
+   	    department VARCHAR(50),
+        salary DOUBLE
+     );
+     
+     
+-- Add Employee
+ INSERT INTO employee(name, department, salary)
+    VALUES ('Shreya','IT', 50000) ,
+    ('Rahul', 'Finance', 45000),
+    ('Rishabh', 'HR', 48000),
+    ('Sivam', 'Sales' , 30000),
+    ('Shristi', 'IT', 60000),
+    ('Kriti', 'Finance', 35000);
+    
+--View All Employee
++----+---------+------------+--------+
+| id | name    | department | salary |
++----+---------+------------+--------+
+|  1 | Shreya  | IT         |  50000 |
+|  2 | Rahul   | Finance    |  45000 |
+|  3 | Rishabh | HR         |  48000 |
+|  4 | Sivam   | Sales      |  30000 |
+|  5 | Shristi | IT         |  60000 |
+|  6 | Kriti   | Finance    |  35000 |
++----+---------+------------+--------+
+
+--DELETE employee
+
+DELETE from employee
+     Where id = 4 ;
+     
++----+---------+------------+--------+
+| id | name    | department | salary |
++----+---------+------------+--------+
+|  1 | Shreya  | IT         |   5500 |
+|  2 | Rahul   | Finance    |  45000 |
+|  3 | Rishabh | HR         |  48000 |
+|  5 | Shristi | IT         |  60000 |
+|  6 | Kriti   | Finance    |  35000 |
++----+---------+------------+--------+
+
+--UPDATE Employee Salary
+
+UPDATE employee
+     SET salary = 5500
+     where id = 1;
+
++----+---------+------------+--------+
+| id | name    | department | salary |
++----+---------+------------+--------+
+|  1 | Shreya  | IT         |  55000 |
+|  2 | Rahul   | Finance    |  45000 |
+|  3 | Rishabh | HR         |  48000 |
+|  5 | Shristi | IT         |  60000 |
+|  6 | Kriti   | Finance    |  35000 |
++----+---------+------------+--------+ 
+     
+-- SEARCH employee by name 
+
+ SELECT * from employee
+     where name ='Rahul' ;
+     
++----+-------+------------+--------+
+| id | name  | department | salary |
++----+-------+------------+--------+
+|  2 | Rahul | Finance    |  45000 |
++----+-------+------------+--------+
+
+
