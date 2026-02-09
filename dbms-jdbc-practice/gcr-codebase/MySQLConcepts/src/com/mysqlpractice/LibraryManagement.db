@@ -1,0 +1,178 @@
+--create database
+
+CREATE DATABASE librarydb;
+
+--use database
+
+USE librarydb;
+
+--create table - books
+
+ CREATE TABLE books(
+     book_id INT AUTO_INCREMENT PRIMARY KEY,
+     title VARCHAR (100),
+     author VARCHAR(100),
+     category VARCHAR(50),
+     available_copies INT) ;
+     
+     
+--create table - students
+
+CREATE TABLE students (
+         student_id INT PRIMARY KEY AUTO_INCREMENT,
+         name VARCHAR(50)
+     );
+     
+--create table - borrow
+
+CREATE TABLE borrow (
+     borrow_id INT AUTO_INCREMENT PRIMARY KEY,
+     student_id INT,
+     book_id INT,
+     borrow_date DATE,
+     return_date DATE );
+     
+--insert into books
+
+ INSERT INTO books (title, author, category, available_copies)
+     VALUES
+     ('Java Basics', 'James Gosling', 'Programming', 5),
+     ('DBMS', 'Navathe', 'Database', 3),
+     ('Operating System', 'Silberschatz', 'CS', 4);
+     
++---------+------------------+---------------+-------------+------------------+
+| book_id | title            | author        | category    | available_copies |
++---------+------------------+---------------+-------------+------------------+
+|       1 | Java Basics      | James Gosling | Programming |                4 |
+|       2 | DBMS             | Navathe       | Database    |                3 |
+|       3 | Operating System | Silberschatz  | CS          |                4 |
++---------+------------------+---------------+-------------+------------------+
+
+--Insert into students
+
+INSERT INTO students (name)
+     Values ('Amit'),('Shreya'), ('Neha'), ('Ayush') ;
+     
++------------+--------+
+| student_id | name   |
++------------+--------+
+|          1 | Amit   |
+|          2 | Shreya |
+|          3 | Neha   |
+|          4 | Ayush  |
++------------+--------+
+
+--start transaction
+
+START TRANSACTION;
+
+	INSERT INTO borrow (student_id, book_id, borrow_date)
+	VALUES (1, 1, CURDATE());
+
+	UPDATE books
+	SET available_copies = available_copies - 1
+	WHERE book_id = 1;
+
+	COMMIT;
+
++---------+------------------+---------------+-------------+------------------+
+| book_id | title            | author        | category    | available_copies |
++---------+------------------+---------------+-------------+------------------+
+|       1 | Java Basics      | James Gosling | Programming |                4 |
+|       2 | DBMS             | Navathe       | Database    |                3 |
+|       3 | Operating System | Silberschatz  | CS          |                4 |
++---------+------------------+---------------+-------------+------------------+
+
+
+--Return a book
+
+ UPDATE borrow
+     SET return_date = CURDATE()
+     WHERE borrow_id = 1;
+     
+     UPDATE books
+     SET available_copies = available_copies + 1
+     WHERE book_id = 1;
+
++-----------+------------+---------+-------------+-------------+
+| borrow_id | student_id | book_id | borrow_date | return_date |
++-----------+------------+---------+-------------+-------------+
+|         1 |          1 |       1 | 2026-02-09  | 2026-02-09  |
++-----------+------------+---------+-------------+-------------+
+
+-- view borrow record with names
+
+SELECT s.name, b.title, br.borrow_date, br.return_date
+     FROM borrow br
+     JOIN students s ON br.student_id = s.student_id
+     JOIN books b ON br.book_id = b.book_id;
+     
++------+-------------+-------------+-------------+
+| name | title       | borrow_date | return_date |
++------+-------------+-------------+-------------+
+| Amit | Java Basics | 2026-02-09  | 2026-02-09  |
++------+-------------+-------------+-------------+
+
+--fine calculation
+
+SELECT 
+    s.name,
+    b.title,
+    GREATEST(DATEDIFF(CURDATE(), br.borrow_date) - 7, 0) * 10 AS fine
+	FROM borrow br
+	JOIN students s ON br.student_id = s.student_id
+	JOIN books b ON br.book_id = b.book_id
+	WHERE br.return_date IS NULL;
+	
+
+--search with multiple filters
+
+Search by author
+
+SELECT * FROM books
+     WHERE author = 'James Gosling';
+     
++---------+-------------+---------------+-------------+------------------+
+| book_id | title       | author        | category    | available_copies |
++---------+-------------+---------------+-------------+------------------+
+|       1 | Java Basics | James Gosling | Programming |                5 |
++---------+-------------+---------------+-------------+------------------+
+
+--Search by category
+
+SELECT * FROM books
+     WHERE category = 'Programming';
+     
++---------+-------------+---------------+-------------+------------------+
+| book_id | title       | author        | category    | available_copies |
++---------+-------------+---------------+-------------+------------------+
+|       1 | Java Basics | James Gosling | Programming |                5 |
++---------+-------------+---------------+-------------+------------------+
+
+--Search by title keyword
+
+SELECT * FROM books
+     WHERE title LIKE '%Java%';
+    
++---------+-------------+---------------+-------------+------------------+
+| book_id | title       | author        | category    | available_copies |
++---------+-------------+---------------+-------------+------------------+
+|       1 | Java Basics | James Gosling | Programming |                5 |
++---------+-------------+---------------+-------------+------------------+
+
+--Combined filters
+
+ SELECT * FROM books
+     WHERE category = 'Programming'
+     AND author LIKE '%Gosling%'
+     AND available_copies > 0;
+    
++---------+-------------+---------------+-------------+------------------+
+| book_id | title       | author        | category    | available_copies |
++---------+-------------+---------------+-------------+------------------+
+|       1 | Java Basics | James Gosling | Programming |                5 |
++---------+-------------+---------------+-------------+------------------+
+
+
+     
+     
