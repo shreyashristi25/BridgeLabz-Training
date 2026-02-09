@@ -1,0 +1,84 @@
+--Create database
+
+CREATE DATABASE bankdb;
+
+--Use database
+
+USE bankdb ;
+
+--create table for accounts
+
+CREATE TABLE accounts(id INT AUTO_INCREMENT PRIMARY KEY,
+	 name VARCHAR(50),
+	 balance DECIMAL(12, 2));
+	 
+--Insert accounts
+
+ INSERT INTO accounts
+     (name, balance)
+     VALUES('Shreya' , 2000),
+     ('Amit', 3000),
+     ('Sneha', 1500),
+     ('Neha', 2500) ;
+     
++----+--------+---------+
+| id | name   | balance |
++----+--------+---------+
+|  1 | Shreya | 2000.00 |
+|  2 | Amit   | 3000.00 |
+|  3 | Sneha  | 1500.00 |
+|  4 | Neha   | 2500.00 |
++----+--------+---------+
+
+--create table for transactions
+
+CREATE TABLE transaction(
+     id INT PRIMARY KEY AUTO_INCREMENT,
+     from_id INT,
+     to_id INT,
+     amount INT) ;
+     
+--START 
+START TRANSACTION;
+
+--perform transaction
+
+UPDATE account SET balance = balance - 2000 Where id =1 ;
+UPDATE accounts SET balance = balance - 2000 Where id =1 ;
+
+INSERT INTO transaction (from_id, to_id, amount)
+     Values(1, 2, 2000) ;
+   
+COMMIT ;
+
+--display transaction table 
+  
+SELECT * FROM transaction ;
+
++----+---------+-------+--------+
+| id | from_id | to_id | amount |
++----+---------+-------+--------+
+|  1 |       1 |     2 |   2000 |
++----+---------+-------+--------+
+
+--Display account table 
+
+SELECT * FROM accounts;
++----+--------+---------+
+| id | name   | balance |
++----+--------+---------+
+|  1 | Shreya |    0.00 |
+|  2 | Amit   | 5000.00 |
+|  3 | Sneha  | 1500.00 |
+|  4 | Neha   | 2500.00 |
++----+--------+---------+
+
+--check balance
+
+SELECT balance FROM accounts WHERE id = 2;
+
++---------+
+| balance |
++---------+
+| 5000.00 |
++---------+
