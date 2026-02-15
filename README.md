@@ -61,3 +61,45 @@
 
 ### 🔗Code Link:
  👉 [Day04-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src)
+
+ ---
+## Day 05 –Scenario-based-problems
+ Date - 09-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day05-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ ---
+ ## Day 06 –Scenario-based-problems
+ Date - 10-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day06-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ ---
+## Day 07 –Scenario-based-problems
+ Date - 13-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day07-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ ---
+## Day 08 –Scenario-based-problems
+ Date - 14-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day08-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ 
