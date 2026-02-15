@@ -1,44 +1,56 @@
 package com.banktransaction;
-import java.util.* ;
+import java.util.HashMap;
+import java.util.Map;
 
-public class Bank {
+class Bank {
 
-	private Map<Integer, Integer> accounts = new HashMap<>();
+    private final Map<Integer, Integer> accounts = new HashMap<>();
 
-    // Initialize accounts with balances
-    public Bank(int numberOfAccounts, int initialBalance) {
-        for (int i = 1; i <= numberOfAccounts; i++) {
-            accounts.put(i, initialBalance);
-        }
+    //method to add account
+    public synchronized void addAccount(int accNo, int balance) {
+        accounts.put(accNo, balance);
     }
 
-    // Deposit method - synchronized to ensure thread safety
+    //methods to deposit and withdraw from account
     public synchronized void deposit(int accountNumber, int amount) {
         int balance = accounts.get(accountNumber);
         balance += amount;
         accounts.put(accountNumber, balance);
-        System.out.println("Deposited " + amount + " into Account-" + accountNumber +
-                           " | New Balance: " + balance);
+
+        System.out.println(Thread.currentThread().getName() +
+                " deposited " + amount +
+                " → Account " + accountNumber +
+                " Balance: " + balance);
     }
 
-    // Withdraw method - synchronized to ensure thread safety
     public synchronized void withdraw(int accountNumber, int amount) {
         int balance = accounts.get(accountNumber);
+
         if (balance >= amount) {
             balance -= amount;
             accounts.put(accountNumber, balance);
-            System.out.println("Withdrew " + amount + " from Account-" + accountNumber +
-                               " | New Balance: " + balance);
+
+            System.out.println(Thread.currentThread().getName() +
+                    " withdrew " + amount +
+                    " → Account " + accountNumber +
+                    " Balance: " + balance);
         } else {
-            System.out.println("Withdrawal of " + amount + " from Account-" + accountNumber +
-                               " failed | Insufficient Balance: " + balance);
+            System.out.println(Thread.currentThread().getName() +
+                    " attempted withdrawal of " + amount +
+                    " → Insufficient balance in Account " + accountNumber);
         }
     }
 
-
-    // Get balance method
+    //methods to get balance and print all balances
     public synchronized int getBalance(int accountNumber) {
         return accounts.get(accountNumber);
     }
 
+    public synchronized void printAllBalances() {
+        System.out.println("\nFinal Account Balances:");
+        accounts.forEach((acc, bal) ->
+                System.out.println("Account " + acc + " → " + bal));
+    }
 }
+
+
