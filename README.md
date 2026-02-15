@@ -772,6 +772,86 @@ BridgeLabz-Training/
 ### 🔗Code Link:
  👉 [Day47-Multithreading](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternMultithreadingconcepts/src/com/multithreading)
 
+---
+## Day 48 –Scenario-based-problems
+ Date - 09-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day48-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ ---
+ ## Day 49 –Scenario-based-problems
+ Date - 10-01-2026
+ 
+- Solved Scenario-based problems related to multithreading and Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day49-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/MultithreadingScenarioBased/src/com/banktransaction)
+ 👉 [Day49-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+---
+ ## Day 50 –MySQL 
+ Date - 11-01-2026
+
+- Studied Conecpts of MySQL
+- Studied indexing, CRUD operations
+- Studied Transaction in MySQL
+- Solved related problems 
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day50-MySQL](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/MySQLConcepts/src/com/mysqlpractice)
+
+
+ ---
+ ## Day 51 –JDBC
+ Date - 12-01-2026
+
+- Studied Basics of JDBC connection
+- Studied JDBC Architecture
+- Studied establishing Database Connection, CRUD Operations
+- Studied PreparedStatement vs Statement, Transaction Management
+- Studied Connection Pooling
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day51 - JDBC](https://github.com/shreyashristi25/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JDBCPractice/src/main/java/com/jdbc)
+
+ ---
+## Day 52 –Scenario-based-problems
+ Date - 13-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day52-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ ---
+## Day 53 –Scenario-based-problems
+ Date - 13-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day53-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
+ ---
+## Day 54 –Scenario-based-problems
+ Date - 14-01-2026
+ 
+- Solved Scenario-based problems related to Java8
+- Commited and pushed successfuly on the repository
+
+### 🔗Code Link:
+ 👉 [Day54-Scenario-based-problems](https://github.com/shreyashristi25/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-problem/Java8ScenarioBased/src/com)
+
 
 
 
