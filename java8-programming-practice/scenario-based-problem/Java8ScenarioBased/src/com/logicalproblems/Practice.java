@@ -242,6 +242,68 @@ public class Practice {
 	                       .orElse(null);
 
 	     System.out.println(kthSmallest);
+	     
+	     
+	     //Remove Repeating Characters (Keep Only Unique Once)
+	     String inputString = "aabbccdde";
+
+	     String resultString = inputString.chars()
+	    		 .mapToObj(c -> (char) c)
+	    		 .collect(Collectors.groupingBy(
+	    				 Function.identity(),
+	    				 LinkedHashMap::new,
+	    				 Collectors.counting()))
+	    		 .entrySet()
+	    		 .stream()
+	    		 .filter(e -> e.getValue() == 1)
+	    		 .map(e -> String.valueOf(e.getKey()))
+	    		 .collect(Collectors.joining());
+
+	     System.out.println(resultString);
+	        
+	        
+	     //Remove Non-Alphanumeric Characters
+	     
+	     String in  =  "ja@va#8!!" ;
+	     String out = in.chars()
+	                .filter(Character::isLetterOrDigit)
+	                .mapToObj(c -> String.valueOf((char) c))
+	                .collect(java.util.stream.Collectors.joining());
+
+	     System.out.println("String without non-alphanumeric acharacters : " +out);
+	     
+	     //Keep Only Alphabets
+	     
+	     String inString = "java8stream2025";
+	     String outString = inString.chars()
+	    		 .filter(Character :: isAlphabetic)
+	    		 .mapToObj(c-> String.valueOf((char) c))
+	    				 .collect(Collectors.joining()) ;
+	     
+	     System.out.println("String with only aphabets : " +outString) ;
+	     
+	     //.Keep Only Digits
+	     String stringInput = "orderId=AB123XZ9";
+
+	     String stringResult = stringInput.chars()
+	    		 .filter(Character::isDigit)
+	    		 .mapToObj(c -> String.valueOf((char) c))
+	    		 .collect(Collectors.joining());
+
+	     System.out.println("String with only digits  : " +stringResult);
+	     
+	     //Count Each Character Except Spaces
+	     String string = "java stream";
+
+	     Map<Character, Long> freqMap = string.chars()
+	    		 .filter(c -> c != ' ')   
+	    		 .mapToObj(c -> (char) c)
+	    		 .collect(Collectors.groupingBy(
+	    				 Function.identity(),
+	    				 LinkedHashMap::new,
+	    				 Collectors.counting()));
+
+	     System.out.println(freqMap);
 	} 
 
 }
